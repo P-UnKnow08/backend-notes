@@ -1,0 +1,8 @@
+# Ignorar archivos de entorno
+.env
+.DS_Store
+.dockerignore
+
+# Ignorar node_modules
+node_modules/
+
